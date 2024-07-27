@@ -72,8 +72,4 @@ public final class DarksTool extends JavaPlugin {
         }
         return commandMap;
     }
-
-    public static DarksTool getMain() {
-        return main;
-    }
 }
