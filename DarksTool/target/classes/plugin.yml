@@ -1,0 +1,6 @@
+name: DarksTool
+version: '1.0'
+main: evil.darkstool.DarksTool
+api-version: '1.20'
+authors: [Evil__, evilek]
+load: STARTUP
