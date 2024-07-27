@@ -52,6 +52,7 @@ public final class DarksTool extends JavaPlugin {
         getCommandMap().register(main.getName(), new HelpopCmd("helpop", this));
         getCommandMap().register(main.getName(), new ItemShopBroadcastCmd("itemshopbc", this));
         getCommandMap().register(main.getName(), new PodpisCmd("podpis", this));
+        getCommandMap().register(main.getName(), new ExpCmd("exp", this));
 
         new TitleAPI();
 
