@@ -1,1 +1,1 @@
-# DarksTool-minecraft_plugin
+# DarksTool
